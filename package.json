@@ -1,0 +1,14 @@
+{
+  "name": "lmnl",
+  "version": "1.0.0",
+  "description": "sketches of a decentralized messenger",
+  "main": "index.js",
+  "scripts": {
+    "start": "budo index.js:bundle.js"
+  },
+  "author": "trashsweaer",
+  "license": "ISC",
+  "dependencies": {
+    "budo": "^11.6.4"
+  }
+}
